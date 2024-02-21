@@ -1,6 +1,6 @@
-# applied_Data_Science
-Здесь выложены выполненные домашние задания по курсу, связанному с выполнением прикладных задач анализа данных
-1) генеративно-состязательные нейронные сети
-2) нейронные сети для обработки звука
-3) нейронные сети для прогнозирования временных рядов
-4) рекомендательные системы
+# applied_Data_Science_Python
+Here one can find home assignments accomplished throughout the university course related to the application of deep learning techniques to the real-world tasks: 
+1) Generative Adversarial Neural Networks
+2) Neural Networks for Audio Processing
+3) Neural Networks for Time Series Forecasting
+4) Recommender Systems
